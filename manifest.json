@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "rust-lang",
+  "repo": "glob",
+  "versions": [
+    {
+      "commit": "cfa2a58f2e44373573f657ec25b3621e44714dee",
+      "parsed_at": "2026-11-21T23:26:30.889341+00:00",
+      "tag": "v0.3.4",
+      "filetree": "filetree/cfa2a58f2e44373573f657ec25b3621e44714dee.nq.gz",
+      "blobs": [
+        "blob/4b93b56a7159230aec4ea9a33df758cf51c4cf9c.nq.gz",
+        "blob/39d4bdb5acd313c1a92dbeaa1c379aaf0596a315.nq.gz",
+        "blob/20e21417fec394367278b6c5ddf5554804d4d99c.nq.gz",
+        "blob/16fe87b06e802f094b3fbb0894b137bca2b16ef1.nq.gz",
+        "blob/4067f126a6dc41144c6edafe7d642ce5179d0e3c.nq.gz",
+        "blob/fa0824ac53c0a9c130636512c0271fc3f0e9c0e6.nq.gz",
+        "blob/3ef50911ea942df1c33d5fb8662ef9e2758a28f0.nq.gz",
+        "blob/1de004bd6b95e45f01c4f0f48e52a6204d983acb.nq.gz",
+        "blob/4fffb2f89cbd8f2169ce9914bd16bd43785bb368.nq.gz",
+        "blob/f5f772bccdbbcf62272687bf285c809d8116f2b1.nq.gz",
+        "blob/de9707038a57718f2ee84260b67ba1be822cfd70.nq.gz",
+        "blob/f8c537910f0ade813897054c23388186fbbd4714.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
