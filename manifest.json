@@ -24,6 +24,27 @@
       ],
       "ast": [
         "aggregate/ast/cfa2a58f2e44373573f657ec25b3621e44714dee/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/cfa2a58f2e44373573f657ec25b3621e44714dee.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "tempfile",
+          "ecosystem": "CARGO",
+          "version": "3",
+          "githubOrg": "Stebalien",
+          "githubRepo": "tempfile",
+          "githubUrl": "https://github.com/Stebalien/tempfile",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "doc-comment",
+          "ecosystem": "CARGO",
+          "version": "0.3",
+          "githubOrg": "GuillaumeGomez",
+          "githubRepo": "doc-comment",
+          "githubUrl": "https://github.com/GuillaumeGomez/doc-comment",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
